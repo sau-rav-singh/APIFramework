@@ -11,8 +11,8 @@ public class Hooks {
 	{		//execute this code only when place id is null
 		//write a code that will give you place id
 		
-		StepDefination m =new StepDefination();
-		if(StepDefination.place_id==null)
+		StepDefinition m =new StepDefinition();
+		if(StepDefinition.place_id==null)
 		{
 		
 		m.add_Place_Payload_with("Shetty", "French", "Asia");
